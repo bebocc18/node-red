@@ -1,0 +1,1 @@
+[{"id":"eed10f2f.66f81","type":"rpi-gpio in","z":"2dacd3c9.65a8ec","name":"GPIO4","pin":"7","intype":"up","debounce":"25","read":false,"x":210,"y":440,"wires":[["7431ddcb.34c2f4"]]}]
