@@ -1,0 +1,1 @@
+[{"id":"b302e7ca.5d5838","type":"http in","z":"7f5ca061.cfc87","name":"Set GIOP5","url":"/setgiop5","method":"get","upload":false,"swaggerDoc":"","x":250,"y":220,"wires":[["b41fee57.c599c","e0fde046.f5b9b"]]}]
